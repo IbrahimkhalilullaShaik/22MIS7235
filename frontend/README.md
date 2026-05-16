@@ -1,36 +1,115 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Affordmed Campus Hiring Evaluation - Notification System
 
-## Getting Started
+## Candidate Details
 
-First, run the development server:
+- Name: Ibrahim Khalilullah Shaik
+- Roll Number: 22MIS7235
+- Technology Stack:
+  - TypeScript
+  - Node.js
+  - Next.js
+  - Material UI
+  - PostgreSQL (Design)
+  - REST APIs
+
+---
+
+# Project Overview
+
+This project is a scalable Notification System designed for the Affordmed Campus Hiring Evaluation.
+
+The system supports:
+- Notification API Design
+- Database Design
+- Query Optimization
+- Scalability Improvements
+- Bulk Notification Architecture
+- Priority Inbox Logic
+- Frontend Notification Dashboard
+
+---
+
+# Implemented Stages
+
+## Stage 1
+REST API Design and Notification Contracts
+
+## Stage 2
+Database Selection, Schema Design, Queries, and Scaling Considerations
+
+## Stage 3
+Query Optimization and Indexing Strategies
+
+## Stage 4
+Performance Improvement and Caching Strategy
+
+## Stage 5
+Reliable High-Scale Notification Delivery Architecture
+
+## Stage 6
+Priority Notification Inbox Implementation
+
+## Stage 7
+Responsive Frontend Notification Dashboard using Next.js and Material UI
+
+---
+
+# Project Structure
+
+```bash
+22MIS7235/
+│
+├── src/
+│   ├── logger.ts
+│   ├── test.ts
+│
+├── frontend/
+│   ├── app/
+│   ├── package.json
+│
+├── notification_system_design.md
+├── README.md
+```
+
+---
+
+# Frontend Setup
+
+## Install Dependencies
+
+```bash
+cd frontend
+npm install
+```
+
+## Run Application
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Application runs on:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# Features
 
-To learn more about Next.js, take a look at the following resources:
+- Responsive UI
+- Notification Cards
+- Priority Notifications
+- Pagination Support
+- Filtering by Notification Type
+- Real-Time Ready Architecture
+- Scalable Backend Design
+- Error Handling
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# Author
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Ibrahim Khalilullah Shaik  
+22MIS7235
